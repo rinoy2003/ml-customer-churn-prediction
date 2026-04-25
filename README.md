@@ -68,12 +68,10 @@ Missing a churn customer is more costly than a false prediction.
 - AUC Score: **0.82**  
 
 ---
+## 📊 Visualizations
 
-## 📉 ROC Curve
-
-(Add your ROC curve image here)
-
----
+### ROC Curve
+![ROC](roc_curve.png)
 
 ## 💡 Business Insights
 
