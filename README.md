@@ -48,6 +48,16 @@ Key findings from EDA:
 
 ---
 
+## 📊 Model Comparison
+
+| Model | Accuracy |
+|------|---------|
+| Logistic Regression | 79% |
+| Random Forest | 79.3% |
+| SVM | 73% |
+
+---
+
 ## ⚙️ Model Improvement
 
 To improve performance:
@@ -116,3 +126,17 @@ making it useful for real-world business applications.
 
 This project focuses on **real-world decision making**, prioritizing recall 
 to minimize business loss due to customer churn.
+
+---
+
+## ⚠️ Limitations
+
+The model is trained on a static dataset and may require retraining for real-time deployment.
+
+---
+
+## 🚀 Future Work
+
+- Use advanced models like XGBoost  
+- Deploy model using Flask/Streamlit
+
